@@ -1,0 +1,54 @@
+﻿  MyGame.cpp
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(72,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(72,14): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(72,14): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(72,14): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(72,14): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(73,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(73,15): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(73,15): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(73,15): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(73,15): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(78,53): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(78,53): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(78,53): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(78,53): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(78,53): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(80,54): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(80,54): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(80,54): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(80,54): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(80,54): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,27): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,27): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,27): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,27): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,27): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,24): warning C4244: аргумент: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,24): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,24): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,24): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(106,24): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(120,1): warning C4244: +=: преобразование "double" в "float", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(136,14): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(136,14): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(136,14): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(136,14): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(136,14): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(137,15): warning C4244: инициализация: преобразование "T" в "int", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(137,15): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(137,15): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(137,15): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(137,15): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(146,26): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(146,26): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(146,26): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(146,26): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(146,26): warning C4244:         ]
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(207,14): warning C4244: инициализация: преобразование "sf::Int64" в "float", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(304,22): warning C4244: =: преобразование "int" в "T", возможна потеря данных
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(304,22): warning C4244:         with
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(304,22): warning C4244:         [
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(304,22): warning C4244:             T=float
+C:\Users\KASPAR7\source\repos\MyGame\MyGame\MyGame.cpp(304,22): warning C4244:         ]
+  MyGame.vcxproj -> C:\Users\KASPAR7\source\repos\MyGame\x64\Debug\MyGame.exe
